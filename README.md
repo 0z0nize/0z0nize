@@ -16,7 +16,6 @@ Python / Django / FastAPI / PostgreSQL / MongoDB / Docker / Yandex.Cloud / HTML5
   [LinkedIn](https://www.linkedin.com/in/vladislav-shkarovskiy/)
 
 
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 
 
 
@@ -25,6 +24,7 @@ Python / Django / FastAPI / PostgreSQL / MongoDB / Docker / Yandex.Cloud / HTML5
 <h3 align="left">Languages and Tools:</h3>
 Here are some ideas to get you started:
 
+[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Django, REST API, SQL
 - 👯 I’m looking to collaborate on ...
