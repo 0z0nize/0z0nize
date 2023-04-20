@@ -11,7 +11,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/senia_andrevna/)
 
 
-[![Ksenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seniacat)](https://github.com/Seniacat/github-readme-stats)
+[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 
 ### Hi there 👋
 
