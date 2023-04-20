@@ -23,7 +23,7 @@
 [<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/vlad_shkarovskiy)
 [<img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='telegram' height='40'>](https://spb.hh.ru/resume/6fcc6db1ff0be29c260039ed1f3232526e5456)
 [<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
-
+[<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='linkedin' height='40'>](https://www.instagram.com/vlad__code/)
 <!--
 **0z0nize/0z0nize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="left">Languages and Tools:</h3>
@@ -41,4 +41,5 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 ### Hi there 👋
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 -->
+
 <img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" /> </p>
