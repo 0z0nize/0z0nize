@@ -16,6 +16,7 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" alt="CSS" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="pytest" width="40" height="40"/> </a>
 
 📫 How to reach me:
 
@@ -24,10 +25,6 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
   [Telegram](https://t.me/vlad_shkarovskiy)
   
   [LinkedIn](https://www.linkedin.com/in/vladislav-shkarovskiy/)
-
-
-
-
 
 <!--
 **0z0nize/0z0nize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
