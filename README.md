@@ -20,8 +20,7 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="pytest" width="40" height="40"/> </a>
 
 ###📫 How to reach me:
-
-[<img src='https://user-images.githubusercontent.com/112638163/233419216-f8e4578e-eddb-4d1e-8b5b-3f5a63027cf1.png' alt='yandex_mail' height='40'>](vladislav.shkarovskiy@yandex.ru)
+<a href="mailto:vladislav.shkarovskiy@yandex.ru"><img src='https://user-images.githubusercontent.com/112638163/233419216-f8e4578e-eddb-4d1e-8b5b-3f5a63027cf1.png' alt='yandex_mail' height='40'></a>
 [<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
 [<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/vlad_shkarovskiy)
 
