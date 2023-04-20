@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Vladislav.
+## Hi! 👋 I'm Vladislav.
 
 ### Yandex.Practicum Python Developer (learning)
 
@@ -41,6 +41,5 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 ### Hi there 👋
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 -->
-
 
 <img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" /> </p>
