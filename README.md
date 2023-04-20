@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Vladislav. Python Developer.
+# Hi! 👋 I'm Vladislav.
 
 ### Yandex.Practicum Python Developer (learning)
 
