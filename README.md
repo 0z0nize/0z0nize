@@ -33,13 +33,6 @@ Here are some ideas to get you started:
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Contact me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ksenia-sidorovich-8ba55b233/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](http://t-do.ru/seniacat)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://career.habr.com/seniacat)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/senia_andrevna/)
 ### Hi there 👋
 
 -->
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vladislav-shkarovskiy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/vladislav-shkarovskiy?trk=profile-badge">Vladislav Shkarovskiy</a></div>
-              
