@@ -14,8 +14,6 @@ Python / Django / FastAPI / PostgreSQL / MongoDB / Docker / Yandex.Cloud / HTML5
   vladislav.shkarovskiy@yandex.ru
   
   https://linkedin.com/vladislav-shkarovskiy
-  
-  Skype:  vladislav.shkarovskiy
 
 
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
