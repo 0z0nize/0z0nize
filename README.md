@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 -->
-
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vladislav-shkarovskiy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/vladislav-shkarovskiy?trk=profile-badge">Vladislav Shkarovskiy</a></div>
+              
