@@ -3,7 +3,6 @@
 ### Yandex.Practicum Python Developer (learning)
 
 ### Languages and Tools: 
-Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -29,8 +28,8 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 **0z0nize/0z0nize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="left">Languages and Tools:</h3>
 Here are some ideas to get you started:
+Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
 
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Django, REST API, SQL
 - 👯 I’m looking to collaborate on ...
@@ -40,6 +39,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### Hi there 👋
-
+[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 -->
 <img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" /> </p>
