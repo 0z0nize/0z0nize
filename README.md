@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 -->
-<img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=#08c42a&style=flat" alt="0z0nize" /> </p>
+<img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" /> </p>
