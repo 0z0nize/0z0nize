@@ -9,11 +9,11 @@ Python / Django / FastAPI / PostgreSQL / MongoDB / Docker / Yandex.Cloud / HTML5
 
 📫 How to reach me:
 
-  https://t.me/vlad_shkarovskiy
-  
   vladislav.shkarovskiy@yandex.ru
+
+  [Telegram](https://t.me/vlad_shkarovskiy)
   
-  [https://linkedin.com/vladislav-shkarovskiy](https://www.linkedin.com/in/vladislav-shkarovskiy/)
+  [LinkedIn](https://www.linkedin.com/in/vladislav-shkarovskiy/)
 
 
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
