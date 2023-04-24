@@ -65,10 +65,10 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
-    <img  align="left" height="110" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
+    <img  align="left" height="110" width="250" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
   </a>   
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact">
-    <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
+    <img align="left" height="110" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
   </a>
 </div>
 
