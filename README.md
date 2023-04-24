@@ -75,8 +75,9 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Olpom&layout=compact">
     <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
   </a>
+  <br>
   <a>
-    <br><img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
+    <img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
   </a>
 </div>
 
