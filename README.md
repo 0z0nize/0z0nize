@@ -4,11 +4,11 @@
 
 ### 🔭 My projects:
 
-[API for social network Yamdb](https://github.com/0z0nize/api_yamdb)
-[Telegram Bot](https://github.com/0z0nize/homework_bot)
-[API for social network YaTube](https://github.com/0z0nize/yatube_api)
-[Social network Yatube](https://github.com/0z0nize/yatube)
-[Fitnes tracker modul](https://github.com/0z0nize/fitness_tracker)
+- [API for social network Yamdb](https://github.com/0z0nize/api_yamdb)
+- [Telegram Bot](https://github.com/0z0nize/homework_bot)
+- [API for social network YaTube](https://github.com/0z0nize/yatube_api)
+- [Social network Yatube](https://github.com/0z0nize/yatube)
+- [Fitnes tracker modul](https://github.com/0z0nize/fitness_tracker)
 
 ### 🌱 Languages and Tools:
 Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 
-<a>
+- <a>
   <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
 </a>
 -->
