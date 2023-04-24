@@ -54,20 +54,17 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 [<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/vlad__code/)
 
 <div>
-  <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
-      <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
-    </a>   
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Olpom&layout=compact">
-      <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
-    </a>
-  </div>
-</div>
-<div>
-  <a>
-    <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
+  <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
+  </a>   
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Olpom&layout=compact">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
   </a>
 </div>
+
+<a>
+  <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
+</a>
 
 <!--
 **0z0nize/0z0nize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -86,6 +83,3 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 ### Hi there 👋
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
 -->
-
-
-
