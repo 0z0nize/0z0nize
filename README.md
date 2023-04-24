@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Vladislav.
 
-### 🧑🏻‍💻 Yandex.Practicum Python Developer (learning)
+### 🧑🏻‍💻 Python Developer
 
 ### 🔭 My projects:
 
