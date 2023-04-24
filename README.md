@@ -4,7 +4,7 @@
 
 ### 🔭 My projects:
 
-- [API for social network Yamdb](https://github.com/0z0nize/api_yamdb)
+- [API for social network YaMDb](https://github.com/0z0nize/api_yamdb)
 - [Telegram Bot](https://github.com/0z0nize/homework_bot)
 - [API for social network YaTube](https://github.com/0z0nize/yatube_api)
 - [Social network Yatube](https://github.com/0z0nize/yatube)
