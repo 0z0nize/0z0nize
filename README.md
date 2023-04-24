@@ -58,7 +58,7 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
   <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
     <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
   </a>   
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Olpom&layout=compact">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact">
     <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
   </a>
 </div>
@@ -72,7 +72,6 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 **0z0nize/0z0nize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="left">Languages and Tools:</h3>
 Here are some ideas to get you started:
-Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Django, REST API, SQL
