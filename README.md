@@ -77,7 +77,8 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
   </a>
 </div>
 
-
-<a>
-  <img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
-</a>
+<div>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
+  </a>
+</div>
