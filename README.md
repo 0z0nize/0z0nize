@@ -91,7 +91,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
 </a>
 
-- <a>
-  <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
-</a>
 -->
