@@ -56,10 +56,10 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 ### ⚡ My statistic:
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
-    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
+    <img  align="left" height="100" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
   </a>   
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
+    <img align="left" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
   </a>
 </div>
 
