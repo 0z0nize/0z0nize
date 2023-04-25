@@ -61,16 +61,7 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 [<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
 [<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/vladislav.shkarovskiy/)
 
-### ⚡ My statistic:
 
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
-    <img  align="left" height="110" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
-  </a>   
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact">
-    <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
-  </a>
-</div>
 
 <!--
 **0z0nize/0z0nize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -95,4 +86,15 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EDA47C5&width=435&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%8A" alt="Typing SVG" />
 </a>
+### ⚡ My statistic:
+
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
+    <img  align="left" height="110" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
+  </a>   
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact">
+    <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
+  </a>
+</div>
+
 -->
