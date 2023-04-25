@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 Python Developer
 
-### 🔭 My projects:
+### 🔭 My portfolio:
 
 - [API for social network YaMDb](https://github.com/0z0nize/api_yamdb)
 - [Telegram Bot "Homework status"](https://github.com/0z0nize/homework_bot)
