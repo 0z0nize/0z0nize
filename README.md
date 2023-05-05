@@ -6,7 +6,7 @@
 
 - [API for social network YaMDb](https://github.com/0z0nize/api_yamdb)
 - [Telegram Bot "Homework status"](https://github.com/0z0nize/homework_bot)
-- [API for social network YaTube](https://github.com/0z0nize/yatube_api)
+- [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
 - [Social network Yatube](https://github.com/0z0nize/yatube)
 - [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
 
