@@ -9,9 +9,7 @@
 - [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
 - [Social network YaTube](https://github.com/0z0nize/yatube)
 - [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
-- <iframe src="https://scratch.mit.edu/projects/727171613/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-### 🌱 Languages and Tools:
 Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -54,7 +52,10 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
     <img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="pytest" width="40" height="40"/>
   </a>
 </div>
+<iframe src="https://scratch.mit.edu/projects/727171613/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen>
+</iframe>
 
+### 🌱 Languages and Tools:
 ### 📫 How to reach me:
 
 [<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/vlad_shkarovskiy)
