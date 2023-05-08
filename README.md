@@ -10,6 +10,8 @@
 - [Social network YaTube](https://github.com/0z0nize/yatube)
 - [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
 
+### 🌱 Languages and Tools:
+
 Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -53,7 +55,6 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
   </a>
 </div>
 
-### 🌱 Languages and Tools:
 ### 📫 How to reach me:
 
 [<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/vlad_shkarovskiy)
