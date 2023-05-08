@@ -9,8 +9,6 @@
 - [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
 - [Social network YaTube](https://github.com/0z0nize/yatube)
 - [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
-- [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
-
 
 Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
 <div>
@@ -75,6 +73,7 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
 </div>
 
 <!--
+- [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
 **0z0nize/0z0nize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="left">Languages and Tools:</h3>
 Here are some ideas to get you started:
