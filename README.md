@@ -9,6 +9,7 @@
 - [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
 - [Social network YaTube](https://github.com/0z0nize/yatube)
 - [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
+- <iframe src="https://scratch.mit.edu/projects/727171613/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ### 🌱 Languages and Tools:
 Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
