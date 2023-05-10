@@ -1,7 +1,3 @@
-<a>
-  <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
-</a>
-
 ## 👋🏻 Hi! I'm Vladislav.
 
 ### 🧑🏻‍💻 Python Developer
@@ -76,6 +72,12 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
     <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
   </a>
 </div>
+
+###
+
+<a>
+  <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
+</a>
 
 <!--
 - [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
