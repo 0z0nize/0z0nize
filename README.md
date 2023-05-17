@@ -21,7 +21,7 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/03d9ed6a-1383-4975-bf3b-cccad508229f" alt="drf" width="40" height="40"/>
+    <img src="https://www.django-rest-framework.org/img/favicon.ico" alt="drf" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/112638163/233412781-a7930a05-73d4-4972-8e66-1cbb7e876e42.svg" alt="fastapi" width="40" height="40"/>
