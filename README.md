@@ -12,7 +12,7 @@
 
 ### 🌱 Languages and Tools:
 
-Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
+Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
