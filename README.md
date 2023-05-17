@@ -1,5 +1,4 @@
 ## 👋🏻 Hi! I'm Vladislav.
-![DRF](https://github.com/0z0nize/0z0nize/assets/112638163/39b32850-7fcb-45a3-aae2-7f1423384dea)
 
 ### 🧑🏻‍💻 Python Developer
 
@@ -21,7 +20,7 @@ Python / Django / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postma
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
-   <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
+  <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/0z0nize/0z0nize/assets/112638163/03d9ed6a-1383-4975-bf3b-cccad508229f" alt="drf" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
