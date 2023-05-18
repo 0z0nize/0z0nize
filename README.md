@@ -4,7 +4,7 @@
 
 ### 🔭 My portfolio:
 
-- [API for social network YaMDb](https://github.com/0z0nize/infra_sp2)
+- [CI/CD API for social network YaMDb](https://github.com/0z0nize/yamdb_final)
 - [Telegram Bot "Homework status"](https://github.com/0z0nize/homework_bot)
 - [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
 - [Social network YaTube](https://github.com/0z0nize/yatube)
