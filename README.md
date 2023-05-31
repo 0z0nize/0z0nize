@@ -65,7 +65,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 [<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
 [<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/vladislav.shkarovskiy/)
 
-### 🎓📜 Diplomas and Certificates
+### 🎓📜 Diplomas and Certificates:
 
 [<img height="110" src ='https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png'/>](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
 
