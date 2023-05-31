@@ -67,7 +67,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 ### Certificates and Diplomas
 
-[https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
+[<img src ='https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png'>](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
 
 ### ⚡ My statistic:
 
