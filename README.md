@@ -4,6 +4,7 @@
 
 ### 🔭 My portfolio:
 
+- [Foodgram social network](https://github.com/0z0nize/foodgram-project-react)
 - [CI/CD API for social network YaMDb](https://github.com/0z0nize/yamdb_final)
 - [Telegram Bot "Homework status"](https://github.com/0z0nize/homework_bot)
 - [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
