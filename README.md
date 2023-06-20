@@ -102,6 +102,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
 </a>
 
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EDA47C5&width=435&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%8A" alt="Typing SVG" />
 </a>
