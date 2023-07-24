@@ -60,10 +60,9 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 </div>
 
 ### 🎓📜 Diplomas and Certificates:
-<p> 
-  [<img height="110" src ='https://github.com/0z0nize/0z0nize/assets/112638163/cc5e5150-ca2c-46a6-ae4e-48abc6db9021'/>](https://github.com/0z0nize/0z0nize/assets/112638163/4a1ae8be-efae-4abb-bd89-efb81ed86854)
-  
-  [<img height="110" src ='https://github.com/0z0nize/0z0nize/assets/112638163/392761e2-a0de-428f-a4c0-288680fce59b'/>](https://github.com/0z0nize/0z0nize/assets/112638163/cc5e5150-ca2c-46a6-ae4e-48abc6db9021)
+<p>
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/cc5e5150-ca2c-46a6-ae4e-48abc6db9021" alt="Diplom" height="110">
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/392761e2-a0de-428f-a4c0-288680fce59b" alt="Programm" height="110">
 </p>
 
 [<img height="110" src ='https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png'/>](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
