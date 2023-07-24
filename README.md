@@ -65,6 +65,8 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
     <img src="https://github.com/0z0nize/0z0nize/assets/112638163/cc5e5150-ca2c-46a6-ae4e-48abc6db9021" alt="yandex.diplom" height="100"/>
   </a>
   
+ ![Снимок](https://github.com/0z0nize/0z0nize/assets/112638163/4a1ae8be-efae-4abb-bd89-efb81ed86854)
+ 
 [<img height="110" src ='https://github.com/0z0nize/0z0nize/assets/112638163/cc5e5150-ca2c-46a6-ae4e-48abc6db9021'/>](https://github.com/0z0nize/0z0nize/assets/112638163/a9311d46-4e5a-4bcc-bd35-096f77b12960)
 
 [<img height="110" src ='https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png'/>](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
