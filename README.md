@@ -61,7 +61,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 ### 🎓📜 Diplomas and Certificates:
 <p>
-  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/24da3956-3bd1-4fae-95bb-053ac252ab49" alt="Diplom" height="110">
+[<img src="https://github.com/0z0nize/0z0nize/assets/112638163/24da3956-3bd1-4fae-95bb-053ac252ab49" alt="Diplom" height="110">](https://drive.google.com/file/d/1_EYWg1mzpEIEVjavGNPjdENh6dwRvc9q/view?usp=drive_link)
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/392761e2-a0de-428f-a4c0-288680fce59b" alt="Programm" height="110">
 </p>
 
