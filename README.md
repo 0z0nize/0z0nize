@@ -72,7 +72,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 [<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/vlad_shkarovskiy)
 [<img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'>](https://spb.hh.ru/resume/6fcc6db1ff0be29c260039ed1f3232526e5456)
 [<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
-[<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/vladislav.shkarovskiy/)
+
 
 
 
@@ -113,4 +113,6 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EDA47C5&width=435&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%8A" alt="Typing SVG" />
 </a>
--->
+
+
+[<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/vladislav.shkarovskiy/)-->
