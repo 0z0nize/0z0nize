@@ -1,4 +1,4 @@
-## 👋🏻 Hi! I'm Vladislav.
+Mi## 👋🏻 Hi! I'm Vladislav.
 
 ### 🧑🏻‍💻 Python Developer
 
@@ -114,5 +114,5 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EDA47C5&width=435&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%8A" alt="Typing SVG" />
 </a>
 
-
-[<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/vladislav.shkarovskiy/)-->
+[<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/vladislav.shkarovskiy/)
+-->
