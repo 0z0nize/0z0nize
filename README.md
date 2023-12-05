@@ -59,7 +59,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
     <img src="https://github.com/0z0nize/0z0nize/assets/112638163/dd62ff01-c637-4bf4-873f-cff7284aee5e" alt="NumPy" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/308644a6-0b2f-494f-a13f-633280c35759" alt="pandas" width="40" height="40"/>
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/e92a2b96-80b9-4272-8b57-211d697ea331" alt="pandas" width="40" height="40"/>
   </a>
 </div>
 
