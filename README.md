@@ -57,9 +57,6 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
   <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="pytest" width="40" height="40"/>
   </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="http://www.w3.org/2000/svg" alt="NumPy" width="40" height="40"/>
-  </a>
 </div>
 
 ### 🎓📜 Diplomas and Certificates:
@@ -81,7 +78,9 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 <!--
 ### ⚡ My statistic:
-
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="http://www.w3.org/2000/svg" alt="NumPy" width="40" height="40"/>
+  </a>
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
     <img  align="left" height="110" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
