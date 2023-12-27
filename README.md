@@ -85,45 +85,5 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 
 <!--
-### ⚡ My statistic:
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="http://www.w3.org/2000/svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  ![np](https://github.com/0z0nize/0z0nize/assets/112638163/dd62ff01-c637-4bf4-873f-cff7284aee5e)
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=contribs&show_icons=true">
-    <img  align="left" height="110" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=0z0nize&hide=issues&show_icons=true" />
-  </a>   
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact">
-    <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact" />
-  </a>
-</div>
 
-
-- [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
-**0z0nize/0z0nize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h3 align="left">Languages and Tools:</h3>
-Here are some ideas to get you started:
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, Django, REST API, SQL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### Hi there 👋
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0z0nize)](https://github.com/0z0nize/github-readme-stats)
-
-- <a>
-  <img align="left" src="https://komarev.com/ghpvc/?username=0z0nize&label=Profile%20views&color=08c42a&style=flat" alt="0z0nize" />
-</a>
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EDA47C5&width=435&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%8A" alt="Typing SVG" />
-</a>
-
-[<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/vladislav.shkarovskiy/)
 -->
