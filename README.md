@@ -1,4 +1,4 @@
-### 🧑🏻‍💻 Python Developer
+🧑🏻‍💻 Python Developer
 
 ### 🔭 My portfolio:
 
@@ -69,8 +69,8 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/b8dcff35-0bcb-4b80-9530-e15f0b87b89e" alt="ITMO" height="110"/> 
 </p>
 <p>
-  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/24da3956-3bd1-4fae-95bb-053ac252ab49" alt="Diplom" height="110"/>
-  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/dce0f3ac-b99b-47e2-b17f-ff3cbc271936" alt="Diplom" height="110"/>
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/672e7bc3-4f22-46f3-9a7f-2b7d6b6cc15e" alt="Diplom" height="110"/>
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b282b5c-0682-46d4-9efd-a57148ab98f2" alt="Diplom" height="110"/>
 </p>
 
 [<img height="110" src ='https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png'/>](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
