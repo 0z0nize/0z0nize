@@ -1,17 +1,7 @@
 🧑🏻‍💻 Python Developer
 
-### 🔭 My portfolio:
-
-- [Foodgram social network](https://github.com/0z0nize/foodgram-project-react)
-- [CI/CD API for social network YaMDb](https://github.com/0z0nize/yamdb_final)
-- [Telegram Bot "Homework status"](https://github.com/0z0nize/homework_bot)
-- [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
-- [Social network YaTube](https://github.com/0z0nize/yatube)
-- [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
-
 ### 🌱 Languages and Tools:
 
-Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest/NumPy/pandas
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -63,6 +53,8 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
   </a>
 </div>
 
+Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas
+
 ### 🎓📜 Diplomas and Certificates:
 <p>
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/c84d6b8b-dc17-42f1-98be-95dcf57cf4d4" alt="ITMO" height="110"/>
@@ -81,7 +73,14 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 [<img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'>](https://spb.hh.ru/resume/6fcc6db1ff0be29c260039ed1f3232526e5456)
 [<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
 
+### 🔭 My portfolio:
 
+- [Foodgram social network](https://github.com/0z0nize/foodgram-project-react)
+- [CI/CD API for social network YaMDb](https://github.com/0z0nize/yamdb_final)
+- [Telegram Bot "Homework status"](https://github.com/0z0nize/homework_bot)
+- [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
+- [Social network YaTube](https://github.com/0z0nize/yatube)
+- [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
 
 
 <!--
