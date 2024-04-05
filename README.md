@@ -67,6 +67,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 <p>
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b1707d7-acd7-441c-ae8e-e59dfc0a7716" alt="Lutz" height="110"/>
 </p>
+
 [<img height="110" src ='https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png'/>](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
 
 ### 📫 How to reach me:
