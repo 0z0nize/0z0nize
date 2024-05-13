@@ -56,6 +56,7 @@
 Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas
 
 ### 🎓📜 Diplomas and Certificates:
+
 <p>
   <img src="https://drive.google.com/file/d/1oyTRpXZNo4uVjRnS_JXSmr_UNJkqtOYQ/view?usp=drive_link" alt="FTH" height="110"/>
 </p>
