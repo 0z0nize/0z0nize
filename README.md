@@ -55,10 +55,7 @@
 
 Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas
 
-### 🎓📜 Diplomas and Certificates:
-<p>
-  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/d0b34fd2-4700-4547-ad4d-079d3c2504e1" alt="FTH" height="110"/>
-</p>
+### 🎓 Diplomas:
 <p>
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/c84d6b8b-dc17-42f1-98be-95dcf57cf4d4" alt="ITMO" height="110"/>
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/b8dcff35-0bcb-4b80-9530-e15f0b87b89e" alt="ITMO" height="110"/> 
@@ -66,6 +63,11 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 <p>
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/672e7bc3-4f22-46f3-9a7f-2b7d6b6cc15e" alt="Diplom" height="110"/>
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b282b5c-0682-46d4-9efd-a57148ab98f2" alt="Diplom" height="110"/>
+</p>
+
+### 📜 Certificates:
+<p>
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/d0b34fd2-4700-4547-ad4d-079d3c2504e1" alt="FTH" height="110"/>
 </p>
 <p>
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b1707d7-acd7-441c-ae8e-e59dfc0a7716" alt="Lutz" height="110"/>
