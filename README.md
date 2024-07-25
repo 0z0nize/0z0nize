@@ -66,6 +66,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 </p>
 
 ### 📜 Certificates:
+
 <p>
   <img src="https://drive.google.com/file/d/1yPYF5NKq7K_psM2_n75VDjU17ZsGjpQs/view?usp=drive_link" alt="SagaArt" height="110"/>
 </p>
