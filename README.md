@@ -81,6 +81,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 ### 📢 Me in the media:
 
 - [Машинные мозги. Нацпроект готовит программистов искусственного интеллекта.](https://aif.ru/natsionalniye_proekti_rossii/digital_economy/mashinnye-mozgi-nacproekt-gotovit-programmistov-iskusstvennogo-intellekta)
+-  [Высшая школа цифровой культуры](https://t.me/dc_itmo/839)
 
 ### 📫 How to reach me:
 
