@@ -78,6 +78,10 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 [<img height="110" src ='https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png'/>](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
 
+### 📢 Me in the media:
+
+- [Машинные мозги. Нацпроект готовит программистов искусственного интеллекта.](https://aif.ru/natsionalniye_proekti_rossii/digital_economy/mashinnye-mozgi-nacproekt-gotovit-programmistov-iskusstvennogo-intellekta)
+
 ### 📫 How to reach me:
 
 [<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/vlad_shkarovskiy)
