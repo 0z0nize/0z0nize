@@ -1,4 +1,4 @@
-### 📚 Tech Stack:
+### 📚 Technology Stack:
 
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
