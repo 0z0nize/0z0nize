@@ -1,6 +1,4 @@
-🧑🏻‍💻 Python Developer
-
-### 🌱 Languages and Tools:
+### 🌱 Languages and 🛠️ Tools:
 
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -89,7 +87,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 [<img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'>](https://spb.hh.ru/resume/6fcc6db1ff0be29c260039ed1f3232526e5456)
 [<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
 
-### 🔭 My portfolio:
+### 📁 My portfolio:
 
 - [Sagaart REST API](https://github.com/Sagaart-4/backend)
 - [Foodgram social network](https://github.com/0z0nize/foodgram-project-react)
