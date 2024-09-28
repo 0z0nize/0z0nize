@@ -100,10 +100,6 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 - [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
 
-
-<iframe src="https://scratch.mit.edu/projects/727171613/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-
 <!--
 
 -->
