@@ -98,6 +98,9 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 - [Social network YaTube](https://github.com/0z0nize/yatube)
 - [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
 
+- Scratch
+<iframe src="https://scratch.mit.edu/projects/727171613/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 
 <!--
 
