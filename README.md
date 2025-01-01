@@ -74,7 +74,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b1707d7-acd7-441c-ae8e-e59dfc0a7716" alt="Lutz" height="110"/>
 </p>
 <p>
-  <img src="https://drive.google.com/file/d/1Tv19zEKYVOBCdkTwSa_tYGolgdhBRB8q/view?usp=drive_link" alt="Podlodka" height="110"/>
+  <img src="https://github.com/user-attachments/assets/acdfc31b-9e48-47a2-add9-8f8a8605e732" alt="Podlodka" height="110"/>
 </p>
 
 
