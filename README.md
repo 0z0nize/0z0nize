@@ -73,12 +73,15 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 <p>
   <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b1707d7-acd7-441c-ae8e-e59dfc0a7716" alt="Lutz" height="110"/>
 </p>
+<p>
+  <img src="https://drive.google.com/file/d/1Tv19zEKYVOBCdkTwSa_tYGolgdhBRB8q/view?usp=drive_link" alt="Podlodka" height="110"/>
+</p>
 
-[<img height="110" src ='https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png'/>](https://certificate.podlodka.io/python1/en/pdldk43907cd7edf75ea401b72083c59a00c7.png)
+
 
 ### 📢 Me in the media:
 
-- [Где учат на айтишников? Доброе утро.](https://www.1tv.ru/shows/dobroe-utro/reportazh/gde-obuchayut-iskusstvennomu-intellektu-dobroe-utro-fragment-vypuska-ot-24-09-2024)
+- [Где учат на айтишников?](https://www.1tv.ru/shows/dobroe-utro/reportazh/gde-obuchayut-iskusstvennomu-intellektu-dobroe-utro-fragment-vypuska-ot-24-09-2024)
 - [Машинные мозги. Нацпроект готовит программистов искусственного интеллекта.](https://aif.ru/natsionalniye_proekti_rossii/digital_economy/mashinnye-mozgi-nacproekt-gotovit-programmistov-iskusstvennogo-intellekta)
 - [Высшая школа цифровой культуры](https://t.me/dc_itmo/839)
 
