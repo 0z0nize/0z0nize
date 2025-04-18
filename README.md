@@ -103,8 +103,12 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 - [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
 
+![qr-code](https://github.com/user-attachments/assets/b2b69a9b-a5b9-4665-a015-aa98ebfc88df)
 
-
+<p>
+  <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
+  <img src="https://github.com/user-attachments/assets/b2b69a9b-a5b9-4665-a015-aa98ebfc88df" alt="QR-T" height="200"/>
+</p>
 <!--
 <p>
   <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
