@@ -103,16 +103,18 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 - [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
 
-![qr-code like](https://github.com/user-attachments/assets/57354bf9-f10b-442d-bafc-c636a45c4cf5)
 
-<p>
-  <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
-  <img src="https://github.com/user-attachments/assets/57354bf9-f10b-442d-bafc-c636a45c4cf5" alt="QR-T" height="200"/>
-</p>
+
+
 <!--
 <p>
   <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
   <img src="https://github.com/user-attachments/assets/198b0ce3-d6f6-4c92-a5b4-64934938f796" alt="Donate" height="200"/>
   <img src="https://github.com/user-attachments/assets/d0cdc94c-4aba-438b-bb4d-874e45d2a7e8" alt="QR-T" height="200"/>
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
+  <img src="https://github.com/user-attachments/assets/57354bf9-f10b-442d-bafc-c636a45c4cf5" alt="QR-T" height="200"/>
 </p>
 -->
