@@ -65,6 +65,9 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 ### 📜 Certificates:
 <p>
+  <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" height="110"/>
+</p>
+<p>
   <img src="https://github.com/user-attachments/assets/76a2cb2c-77f6-4089-b9f3-d51da1bd7813" alt="A/B Week Школы анализа данных" height="110"/>
 </p>
 <p>
@@ -97,6 +100,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 ### 🗃️ My portfolio:
 
+- [Unsupervised Discovery of Thematic Structure in Russian-Mansi Bilingual Texts](https://github.com/0z0nize/NLP-course-Autumn-2025)
 - [Sagaart REST API](https://github.com/Sagaart-4/backend)
 - [Foodgram social network](https://github.com/0z0nize/foodgram-project-react)
 - [CI/CD API for social network YaMDb](https://github.com/0z0nize/yamdb_final)
