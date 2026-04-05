@@ -1,3 +1,32 @@
+### 📜 Certificates:
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:10px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/d0b34fd2-4700-4547-ad4d-079d3c2504e1" alt="FTH" style="width:100%; height:auto;">
+  </div>
+</div>
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:10px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/76a2cb2c-77f6-4089-b9f3-d51da1bd7813" alt="A/B Week Школы анализа данных" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b1707d7-acd7-441c-ae8e-e59dfc0a7716" alt="Lutz" style="width:100%; height:auto;">
+  </div>
+</div>
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:10px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/50a15230-4eaa-47bb-91a6-b30a08043246" alt="SagaArt" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/acdfc31b-9e48-47a2-add9-8f8a8605e732" alt="Podlodka" style="width:100%; height:auto;">
+  </div>
+</div>
+
 ### 📚 Technology Stack:
 
 <div>
