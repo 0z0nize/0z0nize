@@ -1,3 +1,25 @@
+### 📫 How to reach me:
+
+[<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/vlad_shkarovskiy)
+[<img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'>](https://spb.hh.ru/resume/6fcc6db1ff0be29c260039ed1f3232526e5456)
+[<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
+
+
+### 🗃️ My portfolio:
+
+- [NLP_Unsupervised Discovery of Thematic Structure in Russian-Mansi Bilingual Texts](https://github.com/0z0nize/NLP-course-Autumn-2025)
+- [Computer_Vision](https://github.com/0z0nize/Computer_VIsion)
+- [Modern_NN_Architectures_Course](https://github.com/0z0nize/Modern_NN_Architectures_Course)
+- [Sagaart REST API](https://github.com/Sagaart-4/backend)
+- [Foodgram social network](https://github.com/0z0nize/foodgram-project-react)
+- [CI/CD API for social network YaMDb](https://github.com/0z0nize/yamdb_final)
+- [Telegram Bot "Homework status"](https://github.com/0z0nize/homework_bot)
+- [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
+- [Social network YaTube](https://github.com/0z0nize/yatube)
+- [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
+
+- [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
+
 ### 📚 Technology Stack:
 
 <div>
@@ -60,27 +82,6 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 - [Машинные мозги. Нацпроект готовит программистов искусственного интеллекта.](https://aif.ru/natsionalniye_proekti_rossii/digital_economy/mashinnye-mozgi-nacproekt-gotovit-programmistov-iskusstvennogo-intellekta)
 - [Высшая школа цифровой культуры](https://t.me/dc_itmo/839)
 
-### 📫 How to reach me:
-
-[<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/vlad_shkarovskiy)
-[<img src='https://user-images.githubusercontent.com/112638163/233420825-80395188-f26e-4712-8b09-31ef644e4fdb.png' alt='hh' height='40'>](https://spb.hh.ru/resume/6fcc6db1ff0be29c260039ed1f3232526e5456)
-[<img src='https://user-images.githubusercontent.com/112638163/233419558-d220e841-2cc7-420b-a1a0-e9b9b645eca8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladislav-shkarovskiy/)
-
-### 🗃️ My portfolio:
-
-- [NLP_Unsupervised Discovery of Thematic Structure in Russian-Mansi Bilingual Texts](https://github.com/0z0nize/NLP-course-Autumn-2025)
-- [Computer_Vision](https://github.com/0z0nize/Computer_VIsion)
-- [Modern_NN_Architectures_Course](https://github.com/0z0nize/Modern_NN_Architectures_Course)
-- [Sagaart REST API](https://github.com/Sagaart-4/backend)
-- [Foodgram social network](https://github.com/0z0nize/foodgram-project-react)
-- [CI/CD API for social network YaMDb](https://github.com/0z0nize/yamdb_final)
-- [Telegram Bot "Homework status"](https://github.com/0z0nize/homework_bot)
-- [CRUD for YaTube](https://github.com/0z0nize/yatube_api)
-- [Social network YaTube](https://github.com/0z0nize/yatube)
-- [Fitness tracker modul](https://github.com/0z0nize/fitness_tracker)
-
-- [8_bit_translator_ASCII](https://scratch.mit.edu/projects/727171613/embed)
-
 ### 🎓 Diplomas:
 
 <div style="width:100%; margin-bottom:10px;">
@@ -133,61 +134,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
   <img src="https://github.com/user-attachments/assets/acdfc31b-9e48-47a2-add9-8f8a8605e732" alt="Podlodka" style="width:100%; height:auto; display:block;">
 </div>
 
-### 📚 Technology Stack:
-
-<div>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
-    <img src="https://www.django-rest-framework.org/img/favicon.ico" alt="drf" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112638163/233412781-a7930a05-73d4-4972-8e66-1cbb7e876e42.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.yandex.ru/" target="_blank" rel="noreferrer">
-    <img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-120x120.png" alt="yandex.cloud" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.kernel.org/doc/html/latest/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/202px-Tux.svg.png" alt="linux" width="34" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="pytest" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/dd62ff01-c637-4bf4-873f-cff7284aee5e" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/e92a2b96-80b9-4272-8b57-211d697ea331" alt="pandas" width="40" height="40"/>
-  </a>
-</div>
-
-Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas
-
+<!--
 ### 🎓 Diplomas:
 
 <p>
