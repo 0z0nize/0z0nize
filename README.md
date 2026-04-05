@@ -1,5 +1,17 @@
 ### 📚 Technology Stack:
 
+<div style="display:table; width:100%; font-size:0; line-height:0">
+  <div style="display:table-cell; vertical-align:top; width:40%">
+    <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" width="156">
+  </div>
+
+  <div style="display:table-cell; vertical-align:top; width:60%">
+    <img src="https://github.com/user-attachments/assets/76a2cb2c-77f6-4089-b9f3-d51da1bd7813" alt="A/B Week Школы анализа данных" height="110">  
+    <br>
+    <img src="https://github.com/user-attachments/assets/50a15230-4eaa-47bb-91a6-b30a08043246" alt="SagaArt" height="110">
+  </div>
+</div>
+
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
