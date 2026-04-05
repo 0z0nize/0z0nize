@@ -1,16 +1,5 @@
 ### 📚 Technology Stack:
 
-<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0;">
-  <div style="display:table-cell; vertical-align:top; width:40%; padding:0;">
-    <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" style="width:100%; height:auto;">
-  </div>
-
-  <div style="display:table-cell; vertical-align:top; width:60%; padding:0;">
-    <img src="https://github.com/user-attachments/assets/76a2cb2c-77f6-4089-b9f3-d51da1bd7813" alt="A/B Week Школы анализа данных" style="width:100%; height:auto; display:block; margin-bottom:6px;">
-    <img src="https://github.com/user-attachments/assets/50a15230-4eaa-47bb-91a6-b30a08043246" alt="SagaArt" style="width:100%; height:auto;">
-  </div>
-</div>
-
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -63,6 +52,66 @@
 </div>
 
 Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas
+
+### 🎓 Diplomas:
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:20px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/2f86f52c-c77d-43de-9905-0b02ad13f510" alt="ITMO_BigData" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/922cbf71-0b8c-40f1-ae2f-ec00e3cf38ca" alt="ITMO_BigData" style="width:100%; height:auto;">
+  </div>
+</div>
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:20px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/c84d6b8b-dc17-42f1-98be-95dcf57cf4d4" alt="ITMO" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/b8dcff35-0bcb-4b80-9530-e15f0b87b89e" alt="ITMO" style="width:100%; height:auto;">
+  </div>
+</div>
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:20px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/672e7bc3-4f22-46f3-9a7f-2b7d6b6cc15e" alt="Diplom" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b282b5c-0682-46d4-9efd-a57148ab98f2" alt="Diplom" style="width:100%; height:auto;">
+  </div>
+</div>
+
+
+
+### 📜 Certificates:
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:20px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/d0b34fd2-4700-4547-ad4d-079d3c2504e1" alt="FTH" style="width:100%; height:auto;">
+  </div>
+</div>
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:20px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/76a2cb2c-77f6-4089-b9f3-d51da1bd7813" alt="A/B Week Школы анализа данных" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b1707d7-acd7-441c-ae8e-e59dfc0a7716" alt="Lutz" style="width:100%; height:auto;">
+  </div>
+</div>
+
+<div style="display:table; width:100%; table-layout:fixed; font-size:0; line-height:0; margin-bottom:20px;">
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/50a15230-4eaa-47bb-91a6-b30a08043246" alt="SagaArt" style="width:100%; height:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:top; width:50%;">
+    <img src="https://github.com/user-attachments/assets/acdfc31b-9e48-47a2-add9-8f8a8605e732" alt="Podlodka" style="width:100%; height:auto;">
+  </div>
+</div>
 
 ### 🎓 Diplomas:
 <p>
