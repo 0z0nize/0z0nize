@@ -22,6 +22,89 @@
 
 ### 📚 Technology Stack:
 
+<!-- Стек технологий -->
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:12px; font-size:0;">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- DRF -->
+  <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer" title="Django REST Framework" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://www.django-rest-framework.org/img/favicon.ico" alt="Django REST Framework" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://user-images.githubusercontent.com/112638163/233412781-a7930a05-73d4-4972-8e66-1cbb7e876e42.svg" alt="FastAPI" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- SQLite -->
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="SQLite" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- Yandex Cloud -->
+  <a href="https://cloud.yandex.ru/" target="_blank" rel="noreferrer" title="Yandex Cloud" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-120x120.png" alt="Yandex Cloud" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- Postman -->
+  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- HTML5 -->
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer" title="HTML5" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- CSS3 -->
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer" title="CSS3" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="CSS3" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.kernel.org/doc/html/latest/" target="_blank" rel="noreferrer" title="Linux" style="display:inline-block; width:34px; height:40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/202px-Tux.svg.png" alt="Linux" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- Nginx -->
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" title="Nginx" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- Pytest -->
+  <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer" title="Pytest" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="Pytest" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer" title="NumPy" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/dd62ff01-c637-4bf4-873f-cff7284aee5e" alt="NumPy" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas" style="display:inline-block; width:40px; height:40px;">
+    <img src="https://github.com/0z0nize/0z0nize/assets/112638163/e92a2b96-80b9-4272-8b57-211d697ea331" alt="Pandas" style="width:100%; height:100%; object-fit:contain;">
+  </a>
+</div>
+
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
