@@ -69,7 +69,7 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 
 ### 📜 Certificates:
 <p>
-  <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" height="110"/>
+  <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" width="220"/>
 </p>
 <p>
   <img src="https://github.com/user-attachments/assets/76a2cb2c-77f6-4089-b9f3-d51da1bd7813" alt="A/B Week Школы анализа данных" height="110"/>
