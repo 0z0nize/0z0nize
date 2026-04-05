@@ -22,8 +22,8 @@
 
 ### 📚 Technology Stack:
 
-<!-- Стек технологий -->
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:12px; font-size:0;">
+<!-- Стек технологий: логи, ссылки и доступность -->
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; align-items:center; font-size:0;">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python" style="display:inline-block; width:40px; height:40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:100%; height:100%; object-fit:contain;">
@@ -34,7 +34,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" style="width:100%; height:100%; object-fit:contain;">
   </a>
 
-  <!-- DRF -->
+  <!-- Django REST Framework -->
   <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer" title="Django REST Framework" style="display:inline-block; width:40px; height:40px;">
     <img src="https://www.django-rest-framework.org/img/favicon.ico" alt="Django REST Framework" style="width:100%; height:100%; object-fit:contain;">
   </a>
@@ -76,7 +76,7 @@
 
   <!-- CSS3 -->
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer" title="CSS3" style="display:inline-block; width:40px; height:40px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="CSS3" style="width:100%; height:100%; object-fit:contain;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" alt="CSS3" style="width:100%; height:100%; object-fit:contain;">
   </a>
 
   <!-- Linux -->
