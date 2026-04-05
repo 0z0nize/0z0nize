@@ -1,3 +1,29 @@
+### 🎓 Diplomas:
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/user-attachments/assets/2f86f52c-c77d-43de-9905-0b02ad13f510" alt="ITMO_BigData" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/user-attachments/assets/922cbf71-0b8c-40f1-ae2f-ec00e3cf38ca" alt="ITMO_BigData" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/c84d6b8b-dc17-42f1-98be-95dcf57cf4d4" alt="ITMO" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/b8dcff35-0bcb-4b80-9530-e15f0b87b89e" alt="ITMO" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/672e7bc3-4f22-46f3-9a7f-2b7d6b6cc15e" alt="Diplom" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/3b282b5c-0682-46d4-9efd-a57148ab98f2" alt="Diplom" style="width:100%; height:auto; display:block;">
+</div>
+
 ### 📜 Certificates:
 
 <div style="width:100%; margin-bottom:10px;">
