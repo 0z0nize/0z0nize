@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/CSS-Next/logo.css/commit/d2debad789bb0c2eac637d1a5ec52fde432faa12" alt="CSS" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://www.kernel.org/doc/html/latest/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/202px-Tux.svg.png" alt="linux" width="34" height="40"/>
