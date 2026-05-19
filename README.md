@@ -7,6 +7,9 @@
 
 ### 🗃️ My portfolio:
 
+
+
+- [Семантический анализ русскоязычных диалогов для задачи распознавания намерений с улучшением на базе предобученных моделей](https://github.com/0z0nize/russian-dialogue-intent-thesis)
 - [NLP_Unsupervised Discovery of Thematic Structure in Russian-Mansi Bilingual Texts](https://github.com/0z0nize/NLP-course-Autumn-2025)
 - [Computer_Vision](https://github.com/0z0nize/Computer_VIsion)
 - [Modern_NN_Architectures_Course](https://github.com/0z0nize/Modern_NN_Architectures_Course)
