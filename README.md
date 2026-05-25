@@ -60,10 +60,6 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 ### 🎓 Diplomas:
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/user-attachments/assets/24be7cfe-ddfc-47bf-8d3e-bea683225209" alt="Yandex_train" style="width:100%; height:auto; display:block;">
-</div>
-
-<div style="width:100%; margin-bottom:10px;">
   <img src="https://github.com/user-attachments/assets/2f86f52c-c77d-43de-9905-0b02ad13f510" alt="ITMO_BigData" style="width:100%; height:auto; display:block;">
 </div>
 
@@ -88,6 +84,14 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 </div>
 
 ### 📜 Certificates:
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/user-attachments/assets/80e2502c-f110-48d4-af3b-42d21dfe9460" alt="ITMO_KMU" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/user-attachments/assets/24be7cfe-ddfc-47bf-8d3e-bea683225209" alt="Yandex_train" style="width:100%; height:auto; display:block;">
+</div>
 
 <div style="width:100%; margin-bottom:10px;">
   <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" style="width:100%; height:auto; display:block;">
