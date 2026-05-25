@@ -60,6 +60,10 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 ### 🎓 Diplomas:
 
 <div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/user-attachments/assets/24be7cfe-ddfc-47bf-8d3e-bea683225209" alt="Yandex_train" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
   <img src="https://github.com/user-attachments/assets/2f86f52c-c77d-43de-9905-0b02ad13f510" alt="ITMO_BigData" style="width:100%; height:auto; display:block;">
 </div>
 
