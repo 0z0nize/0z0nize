@@ -66,9 +66,19 @@
     <td><a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="cuda / nvidia" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
   </tr>
+  <tr>
+    <td><a href="https://www.sbert.net/" target="_blank" rel="noreferrer"><img src="https://www.sbert.net/_static/logo.png" alt="sentence-transformers" width="40" height="40"/></a></td>
+    <td><a href="https://maartengr.github.io/BERTopic/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/25746895?s=80&v=4" alt="bertopic" width="40" height="40"/></a></td>
+    <td><a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"><img src="https://radimrehurek.com/gensim/_static/images/gensim.png" alt="gensim" width="40" height="40"/></a></td>
+    <td><a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/></a></td>
+    <td><a href="https://umap-learn.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/11962885?s=80&v=4" alt="umap" width="40" height="40"/></a></td>
+    <td><a href="https://hdbscan.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17349883?s=80&v=4" alt="hdbscan" width="40" height="40"/></a></td>
+    <td><a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/></a></td>
+    <td><a href="https://yandex.ru/dev/mystem/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/731014?s=80&v=4" alt="pymystem3" width="40" height="40"/></a></td>
+  </tr>
 </table>
 
-Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman / HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas / PyTorch / PyTorch Lightning / TensorFlow / scikit-learn / Hugging Face (Transformers, Datasets, Accelerate, PEFT) / OpenCV / FAISS / YOLO (Ultralytics) / Albumentations / CLIP / Matplotlib / Seaborn / Jupyter / Google Colab / CUDA / Git
+Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman / HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas / PyTorch / PyTorch Lightning / TensorFlow / scikit-learn / Hugging Face (Transformers, Datasets, Accelerate, PEFT, Evaluate) / OpenCV / FAISS / YOLO (Ultralytics) / Albumentations / CLIP / Matplotlib / Seaborn / Jupyter / Google Colab / CUDA / Git / Sentence-Transformers / BERTopic / Gensim (LDA, NMF) / NLTK / UMAP / HDBSCAN / SciPy / pymystem3
 
 ### 📢 Me in the media:
 
