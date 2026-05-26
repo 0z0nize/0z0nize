@@ -68,8 +68,8 @@
   </tr>
   <tr>
     <td><a href="https://www.sbert.net/" target="_blank" rel="noreferrer"><img src="https://www.sbert.net/_static/logo.png" alt="sentence-transformers" width="40" height="40"/></a></td>
-    <td><a href="https://maartengr.github.io/BERTopic/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/25746895?s=80&v=4" alt="bertopic" width="40" height="40"/></a></td>
-    <td><a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"><img src="https://radimrehurek.com/gensim/_static/images/gensim.png" alt="gensim" width="40" height="40"/></a></td>
+    <td><a href="https://maartengr.github.io/BERTopic/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MaartenGr/BERTopic/master/images/logo.png" alt="bertopic" width="40" height="40"/></a></td>
+    <td><a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/610412?s=80&v=4" alt="gensim" width="40" height="40"/></a></td>
     <td><a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/></a></td>
     <td><a href="https://umap-learn.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/11962885?s=80&v=4" alt="umap" width="40" height="40"/></a></td>
     <td><a href="https://hdbscan.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17349883?s=80&v=4" alt="hdbscan" width="40" height="40"/></a></td>
@@ -184,9 +184,13 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
   <img src="https://github.com/user-attachments/assets/acdfc31b-9e48-47a2-add9-8f8a8605e732" alt="Podlodka" height="110"/>
 </p>
 
+---
 
+<sub><sup>
 
+**Примечание.** В настоящем README упоминаются продукты компании **Meta Platforms, Inc.** (Facebook AI Research / FAISS, логотип Meta) — деятельность компании Meta Platforms, Inc. признана экстремистской и запрещена на территории Российской Федерации (решение Тверского районного суда г. Москвы от 21.03.2022). Также упоминается сервис **LinkedIn** (Microsoft) — доступ к нему ограничен на территории Российской Федерации решением Роскомнадзора от 17.11.2016 за неисполнение требований законодательства о персональных данных. Ссылки и логотипы приведены исключительно в целях технического портфолио и не являются призывом к использованию запрещённых на территории РФ сервисов.
 
+</sup></sub>
 
 <!--
 <p>
