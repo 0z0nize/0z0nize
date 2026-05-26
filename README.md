@@ -1,6 +1,5 @@
-<h1 align="center">Vladislav Shkarovsky</h1>
 <p align="center">
-  MSc student @ ITMO University · ML / NLP Engineer
+  <b>MSc student @ ITMO University · ML / NLP Engineer</b>
 </p>
 <p align="center">
   NLP for Russian dialogues · Intent recognition · Topic modeling (BERTopic / UMAP / HDBSCAN) · Transformers · LLM applications
