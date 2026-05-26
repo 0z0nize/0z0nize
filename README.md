@@ -67,7 +67,7 @@
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.sbert.net/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9532046?s=80&v=4" alt="sentence-transformers (UKPLab)" width="40" height="40"/></a></td>
+    <td><a href="https://www.sbert.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/0z0nize/0z0nize/main/assets/sbert_logo_square.png" alt="sentence-transformers (sbert.net)" width="40" height="40"/></a></td>
     <td><a href="https://maartengr.github.io/BERTopic/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MaartenGr/BERTopic/master/images/logo.png" alt="bertopic" width="40" height="40"/></a></td>
     <td><a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/12515886?s=80&v=4" alt="gensim (RaRe-Technologies)" width="40" height="40"/></a></td>
     <td><a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/></a></td>
