@@ -117,21 +117,6 @@
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0z0nize&theme=default" height="180" alt="profile details"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0z0nize&theme=default" height="180" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0z0nize&theme=default" height="180" alt="most commit language"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0z0nize&hide_border=true" height="180" alt="streak"/>
-</p>
-
----
-
 ### 📢 Me in the media
 
 - [Т-Ж Карьера](https://t-j.ru/career-telecommunications-directing-data-analysis/)
@@ -205,6 +190,26 @@
 <div style="width:100%; margin-bottom:10px;">
   <img src="https://github.com/user-attachments/assets/acdfc31b-9e48-47a2-add9-8f8a8605e732" alt="Podlodka" style="width:100%; height:auto; display:block;">
 </div>
+
+</details>
+
+---
+
+<details>
+<summary>📊 <b>GitHub stats</b> (click to expand)</summary>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0z0nize&theme=default" height="180" alt="profile details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0z0nize&theme=default" height="180" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0z0nize&theme=default" height="180" alt="most commit language"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0z0nize&hide_border=true" height="180" alt="streak"/>
+</p>
 
 </details>
 
