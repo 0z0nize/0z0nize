@@ -46,9 +46,29 @@
     <td><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/0z0nize/0z0nize/assets/112638163/dd62ff01-c637-4bf4-873f-cff7284aee5e" alt="numpy" width="40" height="40"/></a></td>
     <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/0z0nize/0z0nize/assets/112638163/e92a2b96-80b9-4272-8b57-211d697ea331" alt="pandas" width="40" height="40"/></a></td>
   </tr>
+  <tr>
+    <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a></td>
+    <td><a href="https://lightning.ai/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" alt="pytorch lightning" width="40" height="40"/></a></td>
+    <td><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a></td>
+    <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a></td>
+    <td><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/></a></td>
+    <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/facebookresearch/faiss" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/16943930?s=200&v=4" alt="faiss" width="40" height="40"/></a></td>
+    <td><a href="https://www.ultralytics.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" alt="yolo / ultralytics" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://albumentations.ai/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/57894582?s=200&v=4" alt="albumentations" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/openai/CLIP" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="clip" width="40" height="40"/></a></td>
+    <td><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/logo_dark.svg" alt="matplotlib" width="40" height="40"/></a></td>
+    <td><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
+    <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a></td>
+    <td><a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/></a></td>
+    <td><a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_logo.svg" alt="cuda" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
+  </tr>
 </table>
 
-Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman/ HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas
+Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker / Yandex.Cloud / Postman / HTML5 / CSS / Linux / Nginx / Pytest / NumPy / pandas / PyTorch / PyTorch Lightning / TensorFlow / scikit-learn / Hugging Face (Transformers, Datasets, Accelerate, PEFT) / OpenCV / FAISS / YOLO (Ultralytics) / Albumentations / CLIP / Matplotlib / Seaborn / Jupyter / Google Colab / CUDA / Git
 
 ### 📢 Me in the media:
 
