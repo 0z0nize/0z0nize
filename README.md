@@ -33,7 +33,7 @@
     <td><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/112638163/233412781-a7930a05-73d4-4972-8e66-1cbb7e876e42.svg" alt="fastapi" width="40" height="40"/></a></td>
     <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
     <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
     <td><a href="https://cloud.yandex.ru/" target="_blank" rel="noreferrer"><img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-120x120.png" alt="yandex cloud" width="40" height="40"/></a></td>
   </tr>
   <tr>
@@ -43,8 +43,8 @@
     <td><a href="https://www.kernel.org/doc/html/latest/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png" alt="linux" width="34" height="40"/></a></td>
     <td><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a></td>
     <td><a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="pytest" width="40" height="40"/></a></td>
-    <td><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/0z0nize/0z0nize/assets/112638163/dd62ff01-c637-4bf4-873f-cff7284aee5e" alt="numpy" width="40" height="40"/></a></td>
-    <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/0z0nize/0z0nize/assets/112638163/e92a2b96-80b9-4272-8b57-211d697ea331" alt="pandas" width="40" height="40"/></a></td>
+    <td><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a></td>
+    <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
   </tr>
   <tr>
     <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a></td>
@@ -53,7 +53,7 @@
     <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a></td>
     <td><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/></a></td>
     <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a></td>
-    <td><a href="https://github.com/facebookresearch/faiss" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/16943930?s=200&v=4" alt="faiss" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/facebookresearch/faiss" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/16943930?s=80&v=4" alt="faiss" width="40" height="40"/></a></td>
     <td><a href="https://www.ultralytics.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" alt="yolo / ultralytics" width="40" height="40"/></a></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@
     <td><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
     <td><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a></td>
     <td><a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/></a></td>
-    <td><a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_logo.svg" alt="cuda" width="40" height="40"/></a></td>
+    <td><a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="cuda / nvidia" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
   </tr>
 </table>
