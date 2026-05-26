@@ -147,6 +147,26 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
   <img src="https://github.com/user-attachments/assets/acdfc31b-9e48-47a2-add9-8f8a8605e732" alt="Podlodka" style="width:100%; height:auto; display:block;">
 </div>
 
+### ⚖️ Правовое уведомление
+
+В настоящем README упоминаются продукты компании **Meta Platforms, Inc.** (Facebook AI Research, библиотека FAISS, логотип Meta) — деятельность компании Meta Platforms, Inc. признана экстремистской и запрещена на территории Российской Федерации (решение Тверского районного суда г. Москвы от 21.03.2022).
+
+Также упоминается сервис **LinkedIn** (Microsoft) — доступ к нему ограничен на территории Российской Федерации решением Роскомнадзора от 17.11.2016 за неисполнение требований законодательства о персональных данных.
+
+Ссылки и логотипы приведены исключительно в целях технического портфолио и не являются призывом к использованию запрещённых на территории РФ сервисов.
+
+<!--
+<p>
+  <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
+  <img src="https://github.com/user-attachments/assets/198b0ce3-d6f6-4c92-a5b4-64934938f796" alt="Donate" height="200"/>
+  <img src="https://github.com/user-attachments/assets/d0cdc94c-4aba-438b-bb4d-874e45d2a7e8" alt="QR-T" height="200"/>
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
+  <img src="https://github.com/user-attachments/assets/57354bf9-f10b-442d-bafc-c636a45c4cf5" alt="QR-T" height="200"/>
+</p>
+-->
 <!--
 ### 🎓 Diplomas:
 
@@ -185,24 +205,3 @@ Python / Django / Django REST Framework / FastAPI / PostgreSQL / SQLite / Docker
 </p>
 
 ---
-
-### ⚖️ Правовое уведомление
-
-В настоящем README упоминаются продукты компании **Meta Platforms, Inc.** (Facebook AI Research, библиотека FAISS, логотип Meta) — деятельность компании Meta Platforms, Inc. признана экстремистской и запрещена на территории Российской Федерации (решение Тверского районного суда г. Москвы от 21.03.2022).
-
-Также упоминается сервис **LinkedIn** (Microsoft) — доступ к нему ограничен на территории Российской Федерации решением Роскомнадзора от 17.11.2016 за неисполнение требований законодательства о персональных данных.
-
-Ссылки и логотипы приведены исключительно в целях технического портфолио и не являются призывом к использованию запрещённых на территории РФ сервисов.
-
-<!--
-<p>
-  <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
-  <img src="https://github.com/user-attachments/assets/198b0ce3-d6f6-4c92-a5b4-64934938f796" alt="Donate" height="200"/>
-  <img src="https://github.com/user-attachments/assets/d0cdc94c-4aba-438b-bb4d-874e45d2a7e8" alt="QR-T" height="200"/>
-</p>
-
-<p>
-  <img src="https://github.com/user-attachments/assets/fb338f34-98e7-4bb0-8586-bb8f5ae63115" alt="Telegram" height="200"/>
-  <img src="https://github.com/user-attachments/assets/57354bf9-f10b-442d-bafc-c636a45c4cf5" alt="QR-T" height="200"/>
-</p>
--->
