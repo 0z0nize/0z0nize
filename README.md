@@ -125,8 +125,10 @@
 
 ---
 
+### 🎓 Diplomas & Certificates
+
 <details>
-<summary>🎓 <b>Diplomas & Certificates</b> (click to expand)</summary>
+<summary><i>Click to expand</i></summary>
 
 <br>
 
@@ -194,8 +196,10 @@
 
 ---
 
+### 📊 GitHub stats
+
 <details>
-<summary>📊 <b>GitHub stats</b> (click to expand)</summary>
+<summary><i>Click to expand</i></summary>
 
 <br>
 
