@@ -120,8 +120,14 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0z0nize&show_icons=true&hide_border=true" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0z0nize&layout=compact&hide_border=true" height="160" alt="top-langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0z0nize&theme=default" height="180" alt="profile details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0z0nize&theme=default" height="180" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0z0nize&theme=default" height="180" alt="most commit language"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0z0nize&hide_border=true" height="180" alt="streak"/>
 </p>
 
 ---
