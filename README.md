@@ -28,7 +28,7 @@
 | [russian-dialogue-intent-thesis](https://github.com/0z0nize/russian-dialogue-intent-thesis) | MSc thesis: intent recognition on Russian dialogues with fine-tuned pre-trained models | `Python` `PyTorch` `HuggingFace` `Transformers` `Sentence-Transformers` |
 | [NLP-course-Autumn-2025](https://github.com/0z0nize/NLP-course-Autumn-2025) | Unsupervised thematic structure discovery in Russian–Mansi bilingual texts | `BERTopic` `UMAP` `HDBSCAN` `Gensim` `NLTK` `pymystem3` |
 | [Modern_NN_Architectures_Course](https://github.com/0z0nize/Modern_NN_Architectures_Course) | Coursework: classical CNNs → Transformers → diffusion / generative models | `PyTorch` `PyTorch Lightning` `CUDA` `Jupyter` |
-| [Computer_VIsion](https://github.com/0z0nize/Computer_VIsion) | ITMO CV course projects — detection, segmentation, augmentation pipelines | `OpenCV` `YOLO` `Albumentations` `CLIP` `FAISS` |
+| [Computer_Vision](https://github.com/0z0nize/Computer_VIsion) | ITMO CV course projects — detection, segmentation, augmentation pipelines | `OpenCV` `YOLO` `Albumentations` `CLIP` `FAISS` |
 | [yatube_api](https://github.com/0z0nize/yatube_api) | REST API for a blog-style social network | `Django` `DRF` `Pytest` `SQLite` |
 | [infra_sp2](https://github.com/0z0nize/infra_sp2) | Dockerized API + Nginx + Postgres infrastructure project | `Docker` `docker-compose` `Nginx` `PostgreSQL` `Django` |
 
