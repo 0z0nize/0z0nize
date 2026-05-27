@@ -147,7 +147,7 @@
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/b8dcff35-0bcb-4b80-9530-e15f0b87b89e" alt="ITMO" style="width:100%; height:auto; display:block;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/105-%D0%94%D0%9F%D0%9E-13-23-158-1web.jpg" alt="ITMO" style="width:100%; height:auto; display:block;">
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
