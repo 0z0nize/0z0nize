@@ -161,27 +161,27 @@
 #### Certificates
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/user-attachments/assets/80e2502c-f110-48d4-af3b-42d21dfe9460" alt="ITMO_KMU" style="width:100%; height:auto; display:block;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%9A%D0%9C%D0%A3%202026%20-%20%D0%A8%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg" alt="ITMO_KMU" style="width:100%; height:auto; display:block;">
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/user-attachments/assets/24be7cfe-ddfc-47bf-8d3e-bea683225209" alt="Yandex_train" style="width:100%; height:auto; display:block;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/6d31ebe4-9e71-4cde-ab62-8a0830c29ccf.jpg" alt="Yandex_train" style="width:100%; height:auto; display:block;">
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/user-attachments/assets/f880ed16-fa02-4c7a-b3a3-0fc4907ea704" alt="NLP course Autumn 2025" style="width:100%; height:auto; display:block;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/NLP_9_25-9.jpg" alt="NLP course Autumn 2025" style="width:100%; height:auto; display:block;">
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/user-attachments/assets/76a2cb2c-77f6-4089-b9f3-d51da1bd7813" alt="A/B Week Школы анализа данных" style="width:100%; height:auto; display:block;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/%D0%A8%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%20AB%20week.jpg" alt="A/B Week Школы анализа данных" style="width:100%; height:auto; display:block;">
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/user-attachments/assets/50a15230-4eaa-47bb-91a6-b30a08043246" alt="SagaArt" style="width:100%; height:auto; display:block;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/Frame%202087326444.jpg" alt="SagaArt" style="width:100%; height:auto; display:block;">
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/0z0nize/0z0nize/assets/112638163/d0b34fd2-4700-4547-ad4d-079d3c2504e1" alt="FTH" style="width:100%; height:auto; display:block;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/5641-2232465000.jpg" alt="FTH" style="width:100%; height:auto; display:block;">
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
@@ -189,7 +189,7 @@
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
-  <img src="https://github.com/user-attachments/assets/acdfc31b-9e48-47a2-add9-8f8a8605e732" alt="Podlodka" style="width:100%; height:auto; display:block;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/pdldk43907cd7edf75ea401b72083c59a00c7(1).jpg" alt="Podlodka" style="width:100%; height:auto; display:block;">
 </div>
 
 </details>
