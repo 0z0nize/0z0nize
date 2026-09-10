@@ -139,6 +139,14 @@
 </div>
 
 <div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/ITMO_Diplom_1.jpg" alt="ITMO_Master" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/ITMO_Diplom_2.jpg" alt="ITMO_Master" style="width:100%; height:auto; display:block;">
+</div>
+
+<div style="width:100%; margin-bottom:10px;">
   <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/55-02-%D0%94%D0%9F%D0%9E-13-25-1399_diplom.jpg" alt="ITMO_BigData" style="width:100%; height:auto; display:block;">
 </div>
 
