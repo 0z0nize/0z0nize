@@ -116,15 +116,6 @@
 
 ---
 
-### 📢 Me in the media
-
-- [Т-Ж Карьера](https://t-j.ru/career-telecommunications-directing-data-analysis/)
-- [Где учат на айтишников?](https://www.1tv.ru/shows/dobroe-utro/reportazh/gde-obuchayut-iskusstvennomu-intellektu-dobroe-utro-fragment-vypuska-ot-24-09-2024)
-- [Машинные мозги. Нацпроект готовит программистов искусственного интеллекта.](https://aif.ru/natsionalniye_proekti_rossii/digital_economy/mashinnye-mozgi-nacproekt-gotovit-programmistov-iskusstvennogo-intellekta)
-- [Высшая школа цифровой культуры](https://t.me/dc_itmo/839)
-
----
-
 ### 🎓 Diplomas & Certificates
 
 <details>
@@ -203,6 +194,20 @@
 <div style="width:100%; margin-bottom:10px;">
   <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/pdldk43907cd7edf75ea401b72083c59a00c7(1).jpg" alt="Podlodka" style="width:100%; height:auto; display:block;">
 </div>
+
+</details>
+
+---
+
+### 📢 Me in the media
+
+<details>
+<summary><i>Click to expand</i></summary>
+
+- [Т-Ж Карьера](https://t-j.ru/career-telecommunications-directing-data-analysis/)
+- [Где учат на айтишников?](https://www.1tv.ru/shows/dobroe-utro/reportazh/gde-obuchayut-iskusstvennomu-intellektu-dobroe-utro-fragment-vypuska-ot-24-09-2024)
+- [Машинные мозги. Нацпроект готовит программистов искусственного интеллекта.](https://aif.ru/natsionalniye_proekti_rossii/digital_economy/mashinnye-mozgi-nacproekt-gotovit-programmistov-iskusstvennogo-intellekta)
+- [Высшая школа цифровой культуры](https://t.me/dc_itmo/839)
 
 </details>
 
