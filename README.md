@@ -127,6 +127,13 @@
 
 ### 🎓 Diplomas & Certificates
 
+<div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap;">
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/ITMO_Diplom_0.jpg" width="300" style="flex-shrink: 0;" />
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/ITMO_Diplom_1.jpg" width="300" style="flex-shrink: 0;" />
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/ITMO_Diplom_2.jpg" width="300" style="flex-shrink: 0;" />
+  <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/55-02-%D0%94%D0%9F%D0%9E-13-25-1399_diplom.jpg" width="300" style="flex-shrink: 0;" />
+</div>
+
 #### Diplomas
 
 <div style="width:100%; margin-bottom:10px;">
