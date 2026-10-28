@@ -118,11 +118,6 @@
 
 ### 🎓 Diplomas & Certificates
 
-<details>
-<summary><i>Click to expand</i></summary>
-
-<br>
-
 #### Diplomas
 
 <div style="width:100%; margin-bottom:10px;">
@@ -195,9 +190,11 @@
   <img src="https://github.com/0z0nize/0z0nize/blob/main/assets/pdldk43907cd7edf75ea401b72083c59a00c7(1).jpg" alt="Podlodka" style="width:100%; height:auto; display:block;">
 </div>
 
-</details>
-
 ---
+
+
+
+<!--
 
 ### 📢 Me in the media
 
@@ -212,8 +209,6 @@
 </details>
 
 ---
-
-<!--
 ### 📊 GitHub stats
 
 <details>
